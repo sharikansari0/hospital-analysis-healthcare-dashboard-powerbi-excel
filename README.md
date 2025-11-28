@@ -121,7 +121,7 @@ Billing overview with healthcare financial metrics.
 ---
 
 ## 📁 Folder Structure
-...
+
 hospital-analysis-healthcare-dashboard-powerbi-excel/
 │
 ├── README.md
@@ -134,7 +134,6 @@ hospital-analysis-healthcare-dashboard-powerbi-excel/
 └── image/
    |___
        dashboard_image
-...
 
 ---
 
