@@ -166,7 +166,7 @@ This dashboard enables hospitals to:
 
 **Sharik Ansari**  
 📧 Email: sharikkha8900@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sharikansari  
+🔗 LinkedIn: www.linkedin.com/in/sharik-ansari-312021389
 🐙 GitHub: https://github.com/sharikansari0  
 
 ---
