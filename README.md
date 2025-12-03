@@ -1,5 +1,10 @@
 # 🏥 Hospital Analytics & Healthcare Dashboard (Power BI + Excel)
 
+<p align="center">
+  <img src="images/dashboard_image.png" width="800">
+</p>
+
+
 A complete end-to-end **Healthcare Analytics Dashboard** built using **Excel, Power Query, DAX, and Power BI**, designed to analyze patient workflow, diagnosis trends, bed occupancy, doctor feedback, billing, and health insurance performance across 7,157 records.
 
 ---
